@@ -6,9 +6,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6NDg0c2FpdjR5ZnpsMWNhcDh1ZmFvbGptb2k2eWJ5ZmJjczhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
-
-
 # 👋🏼 Hi, I'm Ezo!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Software Engineer at Mongolian University of Science and Technology<br/>
