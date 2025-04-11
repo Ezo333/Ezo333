@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ezo!
+# 👋🏼 Hi, I'm Ezo!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Software Engineer at Mongolian University of Science and Technology<br/>
 💭 Currently learning about typescript and AI!<br/>
