@@ -3,7 +3,7 @@
 👩🏻‍🎓 Studied Software Engineer at Mongolian University of Science and Technology<br/>
 💭 Currently learning about typescript and AI!<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ezo333&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
