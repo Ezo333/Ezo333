@@ -7,8 +7,8 @@
 
 # 👋 Hi, I'm Ezo!
 <img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6NDg0c2FpdjR5ZnpsMWNhcDh1ZmFvbGptb2k2eWJ5ZmJjczhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
-:shipit: 🇲🇳 Software Engineer <br/>
-👩🏻‍🎓 Studied Software Engineer at Mongolian University of Science and Technology 🇲🇳<br/>
+:shipit: Software Engineer <br/>
+👩🏻‍🎓 Studied Software Engineer at Mongolian University of Science and Technology<br/>
 💭 Currently learning about typescript and AI!<br/>
 🔥 working at Teqstream ❤️
 
