@@ -1,4 +1,3 @@
-
 ###
 
 <div align="center">
@@ -27,7 +26,7 @@
 
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6NDg0c2FpdjR5ZnpsMWNhcDh1ZmFvbGptb2k2eWJ5ZmJjczhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
-![](https://nirzak-streak-stats.vercel.app/?user=ezo333&theme=dark&hide_border=true)<br/>
+[![]](https://nirzak-streak-stats.vercel.app/?user=ezo333&theme=dark&hide_border=true)<br/>
 
 
 
