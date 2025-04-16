@@ -10,7 +10,6 @@
 :shipit: Software Engineer <br/>
 👩🏻‍🎓 Currently studying Software Engineer at Mongolian University of Science and Technology<br/>
 💭 Currently learning about typescript and AI!<br/>
-🔥 working at Teqstream<br/>
 ❤️ Backend
 
 
