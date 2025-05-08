@@ -16,10 +16,6 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
-<p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
 <img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6NDg0c2FpdjR5ZnpsMWNhcDh1ZmFvbGptb2k2eWJ5ZmJjczhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
 :shipit: Software Engineer <br/>
 👩🏻‍🎓 Currently studying Software Engineer at Mongolian University of Science and Technology<br/>
