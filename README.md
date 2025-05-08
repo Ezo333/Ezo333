@@ -10,12 +10,8 @@
     <h1 align="center">✩&emsp;Ezo&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%2ECC71&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%00FF00&center=true&width=280&height=50">
 </p>
-<br>
-<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6NDg0c2FpdjR5ZnpsMWNhcDh1ZmFvbGptb2k2eWJ5ZmJjczhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif"  />
-:shipit: Software Engineer <br/>
-👩🏻‍🎓 Currently studying Software Engineer at Mongolian University of Science and Technology<br/>
 
 
 
