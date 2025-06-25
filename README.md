@@ -13,9 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ezo333&show_icons=true&locale=en" width="400" height="300" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezo333" alt="Streak" width="1000" />
-</p>
 
 
 
