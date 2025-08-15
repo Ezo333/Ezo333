@@ -5,7 +5,5 @@
 ### Always real, never fake.
 
 ## Currenly Learning:
-Go
-#
-SpringBoot
-#
+- Go
+- Java Spring Boot
