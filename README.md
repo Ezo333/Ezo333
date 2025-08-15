@@ -5,8 +5,6 @@
 ### Always real, never fake.
 
 ## Currenly Learning:
-#
 Go
-#
 SpringBoot
 #
