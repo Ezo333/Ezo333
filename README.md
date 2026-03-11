@@ -1,4 +1,4 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://username/ezo04244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Enhzorigt37@gmail.com) 
 
-[hi]([https://www.youtube.com/watch?v=MoN9ql6Yymw&list=RDMoN9ql6Yymw](https://www.youtube.com/watch?v=7d6rzXVlbjg&t=954s))
+[hi](https://www.youtube.com/watch?v=7d6rzXVlbjg&t=954s)
